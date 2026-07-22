@@ -1,0 +1,10 @@
+{
+  "product": "mobiz-master-loader-express",
+  "version": "1.6.0",
+  "url": "https://github.com/momakmay1994/mobiz-master-loader-express/releases/download/v1.6.0/MobiZ-Master-Loader-1.6.0.exe",
+  "sha256": "d505b0ab71cebb424f6cb1bf283ca379652211c7b67a8488b9811311826f6a6b",
+  "size": 35403560,
+  "notes": "ระบบ License ออนไลน์ เชื่อมเว็บแอดมิน ตรวจวันหมดอายุ ผูกเครื่อง ปลดเครื่อง ย้ายเครื่อง และรองรับอัปเดตอัตโนมัติ",
+  "mandatory": false,
+  "published_at": "2026-07-22T13:44:38.516794Z"
+}
